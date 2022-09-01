@@ -1,6 +1,6 @@
 /* Java Program to Create a new text file and read the input from the user
  *   and save the input in the text file.
- */ 	@author Nishant Kumar
+  	@author Nishant Kumar */
 
 
 package lab.day;
